@@ -1,5 +1,5 @@
 # SSRF-CTF
-A small SSRF using a vulnerable PHP script.
+A small SSRF CTF using a vulnerable PHP script.
 
 To download the code use the command
 
