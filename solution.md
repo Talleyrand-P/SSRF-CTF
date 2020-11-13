@@ -4,7 +4,7 @@ To get the contents of /etc/passwd, you can provide the input
 
 ```file:///localhost/../../etc/passwd```
 
-This can also be used in other contexts, to bypass access restrictions, to read contents of files, to gain access to internal ports etc. SSRF commonly results in LFI, local network access, and access to internal web services and APIs.
+SSRF commonly results in LFI, local network access, bypassing web authorisation, and gaining access to internal web services and APIs.
 
 The below is an example from Burp:
 
