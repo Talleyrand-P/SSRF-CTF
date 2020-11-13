@@ -28,3 +28,8 @@ stockApi=http://localhost/admin
 ```
 Here, the server will fetch the contents of the /admin URL and return it to the user.
 Now of course, the attacker could just visit the /admin URL directly. But the administrative functionality is ordinarily accessible only to suitable authenticated user
+
+<h3>Further Reading</h3>
+To learn more about how this vulnerability is exploited, I would recommend the burp suite web academy. The first few exercises are like this one, but the later exercises show how to perform blind SSRF.
+
+https://portswigger.net/web-security/ssrf
