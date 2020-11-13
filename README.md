@@ -1,5 +1,5 @@
 # SSRF-CTF
-A small SSRF CTF using a vulnerable PHP script.
+A small SSRF CTF using a vulnerable PHP script. The goal is to read the passwd file.
 
 To download the code use the command
 
